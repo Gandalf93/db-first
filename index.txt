@@ -1,0 +1,10 @@
+Concessionaria
+
+Marca – VARCHAR(30)
+Modello – VARCHAR(100)
+Potenza - SMALLINT
+Cambio -  VARCHAR(20)
+Carburante – VARCHAR(20)
+Prima immatricolazione - DATE
+Chilometraggio - INT
+Prezzo -  SMALLINT
